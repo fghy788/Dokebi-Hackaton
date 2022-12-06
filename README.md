@@ -70,9 +70,11 @@ I started developing Dokebi platform Nov 19.
 <img width="780" alt="스크린샷 2022-12-07 오전 3 21 13" src="https://user-images.githubusercontent.com/81508501/205991045-46bce23b-e23a-4a15-bcb0-2843d2faeabb.png">
 
 Finally deploy first function Donate to Earn Dev 04.
+
 I introduce my platform at Dev05 MonkeMondaySpotlight and watch people love my Idea
 
 Thanks you for read for this!!
+
 Hope great result for Solana ecosystem , Solana NFT DAOs!!
 
 # links
