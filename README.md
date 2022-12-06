@@ -1,3 +1,8 @@
+# links
+Demo - https://dokebi-hackaton.vercel.app/<br>
+Real Application of our project - https://dokebi.xyz<br>
+Twitter - https://twitter.com/Dokebi_sol<br>
+
 # Dokebi-For Hackaton
 
 Dokebi Project Demo for Hackaton<br>
@@ -74,8 +79,3 @@ Finally deploy first function Donate to Earn Dev 04.<br>
 I introduce my platform at Dev05 MonkeMondaySpotlight and watch people love my Idea<br>
 Thanks you for read for this!!<br>
 Hope great result for Solana ecosystem , Solana NFT DAOs!!<br>
-
-# links
-Demo - https://dokebi-hackaton.vercel.app/<br>
-Real Application of our project - https://dokebi.xyz<br>
-Twitter - https://twitter.com/Dokebi_sol<br>
