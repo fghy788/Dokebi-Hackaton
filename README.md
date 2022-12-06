@@ -72,11 +72,15 @@ If satisfied holders over than 50% 90%SOL going to Degod DAO and 10% to suggeste
 This prevent projects going to slow rug.<br>
 And 10% to suggester going to made more suggest for their DAO and for own profit<br>
 
-# Final
+# Final and Marketing
 I started developing Dokebi platform Nov 19.<br>
 <img width="780" alt="스크린샷 2022-12-07 오전 3 21 13" src="https://user-images.githubusercontent.com/81508501/205991045-46bce23b-e23a-4a15-bcb0-2843d2faeabb.png">
 
 Finally deploy first function Donate to Earn Dev 04.<br>
-I introduce my platform at Dev05 MonkeMondaySpotlight and watch people love my Idea<br>
+Nextday I introduce my platform at Dev05 MonkeMondaySpotlight and watch people love my Idea<br>
+Already get Famous Fox Federation and GGSG DAO wallet address and support from founders and mods<br>
+Going to partnership with more projects hackathon will really helpful to me!!<br>
+Make DAO and NFTs for advertising It makes NFT holders get hyped for donating.<br>
+
 Thanks you for read for this!!<br>
 Hope great result for Solana ecosystem , Solana NFT DAOs!!<br>
