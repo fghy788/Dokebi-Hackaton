@@ -1,0 +1,36 @@
+{
+    "name": "dokebi",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^6.2.1",
+        "@fortawesome/free-brands-svg-icons": "^6.2.1",
+        "@fortawesome/free-regular-svg-icons": "^6.2.1",
+        "@fortawesome/free-solid-svg-icons": "^6.2.1",
+        "@fortawesome/react-fontawesome": "^0.2.0",
+        "@solana/spl-token": "^0.3.6",
+        "@solana/wallet-adapter-base": "^0.9.18",
+        "@solana/wallet-adapter-react": "^0.15.24",
+        "@solana/wallet-adapter-react-ui": "^0.9.22",
+        "@solana/wallet-adapter-wallets": "^0.19.5",
+        "@solana/web3.js": "^1.66.2",
+        "@types/crypto-js": "^4.1.1",
+        "@types/node": "18.11.9",
+        "@types/react": "18.0.25",
+        "@types/react-dom": "18.0.9",
+        "crypto-js": "^4.1.1",
+        "eslint": "8.28.0",
+        "eslint-config-next": "13.0.4",
+        "firebase": "^9.13.0",
+        "next": "13.0.4",
+        "react": "^18.2.0",
+        "react-dom": "18.2.0",
+        "typescript": "4.9.3"
+    }
+}

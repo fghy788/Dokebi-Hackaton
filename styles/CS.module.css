@@ -1,0 +1,27 @@
+@import url("https://use.typekit.net/miu6fwm.css");
+.main {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.CSspan {
+    margin: 0px 40px;
+    font-size: 30px;
+    color: #807761;
+
+    text-align: center;
+}
+.CSspan:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}

@@ -1,0 +1,110 @@
+@import url("https://use.typekit.net/miu6fwm.css");
+.headerbox {
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr auto;
+    justify-items: center;
+    align-items: center;
+
+    font-size: 40px;
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.headerbox::-webkit-scrollbar {
+    display: none;
+}
+.wallet {
+    background-color: inherit;
+    border: 5px solid #807761;
+
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #807761;
+}
+.wallet:hover {
+    background-color: #807761;
+}
+.wallet:focus {
+    background-color: #807761;
+}
+.main {
+    margin-top: 20px;
+}
+.title {
+    display: flex;
+    justify-content: center;
+
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #807761;
+}
+.suggestion {
+    display: flex;
+    justify-content: center;
+}
+.suggestioninput {
+    background-color: #807761;
+    border: 5px solid #403b30;
+
+    width: 80%;
+    height: 50px;
+}
+.suggestioninput:focus {
+    outline: none;
+}
+
+.suggestionbtn {
+    background-color: #807761;
+    border: 5px solid #403b30;
+}
+
+.suggestions {
+    margin: 50px 200px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.suggestionsbody {
+    background-color: #807761;
+
+    height: 30px;
+    border: 5px solid #403b30;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+.amount {
+    margin-right: 10px;
+}
+.donateBtn {
+    background-color: #403b30;
+    margin: 10px;
+    height: 30px;
+
+    border: 0;
+    border-radius: 10px;
+
+    color: #807761;
+    font-size: 20px;
+    box-shadow: 5px 5px 7px #403b30;
+
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.donateBtn:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.donateBtn:disabled {
+    opacity: 0.3;
+}

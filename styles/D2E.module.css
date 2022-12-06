@@ -1,0 +1,152 @@
+@import url("https://use.typekit.net/miu6fwm.css");
+.headerbox {
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr auto;
+    justify-items: center;
+    align-items: center;
+
+    font-size: 40px;
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.headerbox::-webkit-scrollbar {
+    display: none;
+}
+.wallet {
+    background-color: inherit;
+    border: 5px solid #807761;
+
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #807761;
+}
+.wallet:hover {
+    background-color: #807761;
+}
+.wallet:focus {
+    background-color: #807761;
+}
+
+.distributeBox {
+    margin: 10px 0px;
+    text-align: center;
+    color: #807761;
+
+    font-size: 17px;
+    font-family: montserrat, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.distributeSOL {
+    font-size: 30px;
+    font-weight: 800;
+
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.sendBtnBox {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    column-gap: 10px;
+    overflow: scroll;
+    margin: 0px 50px;
+}
+.sendBtnBox::-webkit-scrollbar {
+    display: none;
+}
+.mainbox {
+    border-radius: 30px;
+    margin: 10px 0;
+}
+
+.mainbox::-webkit-scrollbar {
+    display: none;
+}
+
+.manualBtn {
+    background-color: inherit;
+    color: #807761;
+    border: 0;
+
+    font-size: 30px;
+    font-weight: 800;
+
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.manualBtn:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.manualBox {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    bottom: 5px;
+
+    background-color: rgba(0, 0, 0, 0.8);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.manualCloseBtn {
+    width: 800px;
+    height: 50px;
+
+    background-color: #172623;
+    border: 4px solid #807761;
+
+    color: #807761;
+    font-size: x-large;
+    font-weight: 700;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 00;
+    font-style: normal;
+}
+.manualCloseBtn:hover {
+    cursor: pointer;
+    animation: hovering 2s;
+    background: linear-gradient(90deg, #807761, #172623, #807761, #172623);
+    background-size: 800% 800%;
+    animation: hovering 3s linear infinite;
+}
+.sunday {
+    font-size: 8px;
+}
+
+@keyframes hovering {
+    0% {
+        background-position: 0% 33%;
+    }
+    50% {
+        background-position: 33% 66%;
+    }
+    100% {
+        background-position: 66% 100%;
+    }
+}
+
+@keyframes scale1 {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.05);
+    }
+}

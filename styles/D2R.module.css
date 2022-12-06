@@ -1,0 +1,38 @@
+.headerbox {
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr auto;
+    justify-items: center;
+    align-items: center;
+
+    font-size: 40px;
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.headerbox::-webkit-scrollbar {
+    display: none;
+}
+.wallet {
+    background-color: inherit;
+    border: 5px solid #807761;
+
+    font-family: bd-micronfont, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #807761;
+}
+.wallet:hover {
+    background-color: #807761;
+}
+.wallet:focus {
+    background-color: #807761;
+}
+.main {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
