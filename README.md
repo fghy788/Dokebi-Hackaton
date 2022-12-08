@@ -1,4 +1,4 @@
-# WELCOME to Dokebi Solana Donation Platform!!!
+# WELCOME to Dokebi - Solana Donation Platform!!!
 ![Web 1920 – 1](https://user-images.githubusercontent.com/81508501/206000770-7e90e765-ec78-4306-8d92-37388002a80b.png)
 # 🗒️ Links
 Demo - https://dokebi-hackaton.vercel.app/<br>
@@ -84,6 +84,18 @@ If satisfied holders over than 50% 90%SOL going to Degod DAO and 10% to suggeste
 This prevent projects going to slow rug.<br>
 And 10% to suggester going to made more suggest for their DAO and for own profit<br>
 
+# 🕹️ Partnership games DApps
+I will made DApp game site for partnership DAO.<br>
+Game like Degencoinflip - but If i made game for FFF 50%of game profit is going to FFF DAO or FFF holders.<br>
+Lest of 50% is going to Dokebi Holders.<br>
+It will made people come to Dokebi page for playing DAO games and they will donate for DAOs to earn their own money.<br>
+It can make NFTs fun place again and DAO are going more stronger with their DApps games.<br>
+The most positive effect is DAOs aren't have to change their roadmap for earn royalties.<br>
+
+# 🧟‍♀️ Why Dokebi need NFT?
+NFTs make people stick together with DAOs. we need advertise for donate and if dokebi floor price is going up people more interested in what dokebi is that is one of marketing point for make people donate.<br>
+Dokebi DAO member trying to advertise or make people donate for their own profit(fee from dokebi-platform/higher Floor price of dokebiNFT).<br>
+
 # 🏖️ Final and Marketing
 
 I started developing Dokebi platform Nov 19.<br>
@@ -91,17 +103,16 @@ I started developing Dokebi platform Nov 19.<br>
 
 Finally deploy our first function Donate to Earn Dev 04.<br>
 Nextday I introduce my platform at Dev05 MonkeMondaySpotlight and watch people love my Idea.<br>
-Already get Famous Fox Federation and GGSG DAO wallet address and support from founders and mods.<br>
-I Going to partnership with more projects.<br>
+Already get SMB, Famous Fox Federation, DegenApe and GGSG DAO wallet address and support from founders and mods.<br>
+I'm Going to partnership with more projects with game DApps and Donate for them.<br>
 Make DAO and NFTs for advertising It makes NFT holders get hyped for donating.<br>
-This is plan for our marketing hackathon will really helpful to me!!<br>
 
 Imagine NFT holders donate for their DAO and nobody care about royalty.<br>
-People dont have to see other marketplace for 0% royalty people can see only ME and dont have to do dangerous p2p trading.<br>
-It will be really helpful to solana ecosystem and many other chain will envy solana NFT ecosystem.<br>
+People don't have to see other marketplace for 0% royalty trade, people can only see ME without buying from scam site or buying rugged NFTs and dont have to do dangerous p2p trading.<br>
+Nobody care about royalty will be really helpful to solana NFT ecosystem and many other chain will envy solana NFT ecosystem.<br>
 
-This is what i focus on<br>
+This is what i focus on and want to made for!!<br>
 
-Thanks you for read for this!!<br>
+Thanks you for read for long introduce!!<br>
 Hope great result for Solana ecosystem , Solana NFT DAOs!!<br>
 Thank you for open Hackathin MagicEden!! No.1 marketplace i ever seen😆<br>
