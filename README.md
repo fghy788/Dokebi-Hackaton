@@ -53,13 +53,12 @@ Every Raffle ticket price is 0.1SOL<br>
 If someone buy SMB Raffle ticket<br>
 0.08sol going to buy other SMB for raffle<br>
 0.02sol going to SMB DAO wallet<br>
-Left sol going to SMB DAO wallet<br>
 If total tickey value is over than NFTs floor price raffle is closed in 1hours<br>
 Left SOL will going to DAO wallet!<br>
 After closed raffle buy floor SMB with full royalty and doing raffle again<br>
 
 Donate Raffle mechanism<br>
-collect SOL with raffle -> if collecting SOL is over than floor price raffle ends in 1hours -> buy one more floor NFT (Left SOL send to DAO wallet) -> floor going to sweep -> floor price going high -> collect more SOL with raffle -> loop <br>
+collect SOL with raffle -> if collecting SOL is over than floor price raffle ends in 1hours -> buy one more floor NFT -> floor going to sweep -> floor price going high -> collect more SOL with raffle -> loop <br>
 
 # 3️⃣ Donate 2 Utility
 
