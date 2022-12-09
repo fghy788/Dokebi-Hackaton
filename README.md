@@ -51,15 +51,14 @@ We open Raffle with NFTs like SMB,FFF,Degod<br>
 
 Every Raffle ticket price is 0.1SOL<br>
 If someone buy SMB Raffle ticket<br>
-0.07sol to buy other SMB for raffle<br>
-0.03sol to SMB DAO<br>
-
-If someone buy Degod Raffle ticket<br>
-0.07sol to buy other Degod for raffle<br>
-0.03sol to Degod DAO<br>
+0.1sol going to buy other SMB for raffle<br>
+Left sol going to SMB DAO wallet<br>
+If total tickey value is over than NFTs floor price raffle is closed in 1hours<br>
+Left SOL will going to DAO wallet!<br>
+After closed raffle buy floor SMB with full royalty and doing raffle again<br>
 
 Donate Raffle mechanism<br>
-Raffle get hyped->Gather more money->Sweep NFTs floor for raffle nfts->FP going high->Raffle get hyped->Donate more->everyone can earn with this mechanism DAO,NFT Holder<br>
+collect SOL with raffle -> if collecting SOL is over than floor price raffle ends in 1hours -> buy one more floor NFT (Left SOL send to DAO wallet) -> floor going to sweep -> floor price going high -> collect more SOL with raffle -> loop <br>
 
 # 3️⃣ Donate 2 Utility
 
