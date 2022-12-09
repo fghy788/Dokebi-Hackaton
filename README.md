@@ -51,7 +51,8 @@ We open Raffle with NFTs like SMB,FFF,Degod<br>
 
 Every Raffle ticket price is 0.1SOL<br>
 If someone buy SMB Raffle ticket<br>
-0.1sol going to buy other SMB for raffle<br>
+0.08sol going to buy other SMB for raffle<br>
+0.02sol going to SMB DAO wallet<br>
 Left sol going to SMB DAO wallet<br>
 If total tickey value is over than NFTs floor price raffle is closed in 1hours<br>
 Left SOL will going to DAO wallet!<br>
