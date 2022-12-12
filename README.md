@@ -1,4 +1,4 @@
-# WELCOME to Dokebi - Solana Donation Platform!!!
+# WELCOME to Dokebi - Solana Royalty DApp Platform(Donate & Game)
 ![Web 1920 – 1](https://user-images.githubusercontent.com/81508501/206000770-7e90e765-ec78-4306-8d92-37388002a80b.png)
 # 🗒️ Links
 Demo - https://dokebi-hackaton.vercel.app/<br>
