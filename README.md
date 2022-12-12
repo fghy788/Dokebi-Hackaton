@@ -2,8 +2,9 @@
 ![Web 1920 – 1](https://user-images.githubusercontent.com/81508501/206000770-7e90e765-ec78-4306-8d92-37388002a80b.png)
 # 🗒️ Links
 Demo - https://dokebi-hackaton.vercel.app/<br>
-Real Application of our project - https://dokebi.xyz<br>
-WHitePaper - https://dokebi.xyz/whitepaper<br>
+onchain Application of our project - https://dokebi.xyz<br>
+WhitePaper - https://dokebi.xyz/whitepaper<br>
+(You can see onchain project details at whitepaper)<br>
 Twitter - https://twitter.com/Dokebi_sol<br>
 Video(Demo) - https://youtu.be/XEp9_kI3X0I<br>
 
