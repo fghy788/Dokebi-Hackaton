@@ -73,8 +73,8 @@ collect SOL with raffle -> if collecting SOL is over than floor price raffle end
 # 3️⃣ Donate 2 Utility
 
 About D2U<br>
-Donate to Utility is Donate DApps for utility what holder want<br>
-Donate to Utility like crowdfunding<br>
+Donate to Utility is donate for holder want utility <br>
+Donate to Utility concepts like crowdfunding<br>
 
 It has three steps Suggest->Funding->Vote for distirbute<br>
 
@@ -91,8 +91,11 @@ Let's assume Degod DAO going to made token like $dust<br>
 Holders vote if they satisfied<br>
 If satisfied holders over than 50% 90%SOL going to Degod DAO and 10% to suggester<br>
 
-This prevent projects going to slow rug.<br>
-And 10% to suggester going to made more suggest for their DAO and for own profit<br>
+It prevent projects going to slow rug.<br>
+And 10% SOL to suggester going to made more suggest for their DAO and for their own profit<br>
+![whitepaper3](https://user-images.githubusercontent.com/81508501/207414565-fe572412-eaaf-417d-9e4a-37393fe44e6b.png)
+
+
 
 # 🕹️ Partnership & Game DApps
 I will made Game DApps for partnership DAO.<br>
