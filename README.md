@@ -123,6 +123,9 @@ Nobody care about royalty will be really helpful to solana NFT ecosystem and man
 
 This is what i focus on and want to made for!!<br>
 
-Thanks you for read for long introduce!!<br>
+<img width="586" alt="스크린샷 2022-12-13 오후 2 02 31" src="https://user-images.githubusercontent.com/81508501/207230934-d6ab36d5-cbe4-4591-89de-119a65c1f153.png">
+This is proof of we donate for DAOs this week!!
+
 Hope great result for Solana ecosystem , Solana NFT DAOs!!<br>
 Thank you for open Hackathin MagicEden!! No.1 marketplace i ever seen😆<br>
+
