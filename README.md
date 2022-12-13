@@ -66,6 +66,8 @@ Left SOL will going to DAO wallet!<br>
 After closed raffle buy floor SMB with full royalty and doing raffle again<br>
 
 Donate Raffle mechanism<br>
+![whitepaper2](https://user-images.githubusercontent.com/81508501/207230563-d92c9509-e985-476e-b0fd-121718b4a376.png)
+
 collect SOL with raffle -> if collecting SOL is over than floor price raffle ends in 1hours -> buy one more floor NFT -> floor going to sweep -> floor price going high -> collect more SOL with raffle -> loop <br>
 
 # 3️⃣ Donate 2 Utility
@@ -73,6 +75,7 @@ collect SOL with raffle -> if collecting SOL is over than floor price raffle end
 About D2U<br>
 Donate to Utility is Donate DApps for utility what holder want<br>
 Donate to Utility like crowdfunding<br>
+
 It has three steps Suggest->Funding->Vote for distirbute<br>
 
 Suggest<br>
